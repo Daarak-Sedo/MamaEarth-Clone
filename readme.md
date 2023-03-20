@@ -1,15 +1,6 @@
 # Mama-Earth
 This is a clone of www.mamaearth.in website made using HTML, CSS and JS. It's an India based E-commerce website for skin care products.
 
-# Technologies we used
-React
-Redux
-JavaScript
-Chakra UI
-Node as runtime
-MongoDB as Database
-Express , EJS for Backend
-
 ## Webpages
 
 1.Homepage
